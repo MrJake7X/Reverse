@@ -2,4 +2,6 @@ REVERSE
 
 History
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+Our characters belong to two different tribes which have been confronted during decades, but now two heroes must save the world recollecting crystal gems in order to acquire power to postpone the darkened apocalypse.
+
+
