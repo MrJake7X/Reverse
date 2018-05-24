@@ -25,3 +25,6 @@ Smalkahkein (Composer) https://www.artstation.com/victorredondoart
 
 
 You can download the executable here: https://mrjake7x.itch.io/reverse
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="mrjake7x"><a class="LI-simple-link" href='https://es.linkedin.com/in/mrjake7x?trk=profile-badge'>Alex Reverter Lices</a></div>
