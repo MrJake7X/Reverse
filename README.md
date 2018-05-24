@@ -15,7 +15,7 @@ Frozzy represents the ice and has the ability of creating ice blocks which will 
 
 Design Team
 
-MrJake7X (Programmer && Animator)  https://www.artstation.com/mrjake7x
+MrJake7X (Programmer && Animator) ArtStation:  https://www.artstation.com/mrjake7x  Linkedin: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="mrjake7x"><a class="LI-simple-link" href='https://es.linkedin.com/in/mrjake7x?trk=profile-badge'>Alex Reverter Lices</a></div>
 
 Hkoisumi (Artist 2D and Texture) https://www.artstation.com/hkoisumi
 
@@ -26,5 +26,3 @@ Smalkahkein (Composer) https://www.artstation.com/victorredondoart
 
 You can download the executable here: https://mrjake7x.itch.io/reverse
 
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="mrjake7x"><a class="LI-simple-link" href='https://es.linkedin.com/in/mrjake7x?trk=profile-badge'>Alex Reverter Lices</a></div>
