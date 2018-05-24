@@ -22,3 +22,6 @@ Hkoisumi (Artist 2D and Texture) https://www.artstation.com/hkoisumi
 Oscar Trevejo (Artist 3D and Effects) https://www.artstation.com/oscartrevejo
 
 Smalkahkein (Composer) https://www.artstation.com/victorredondoart
+
+
+You can download the executable here: https://mrjake7x.itch.io/reverse
