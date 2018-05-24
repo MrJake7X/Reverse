@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 2f5ae0bac102bfd4b8ed9676ccd5f098
+timeCreated: 1524425267
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pCube2
+    100002: pCube3
+    100004: //RootNode
+    100006: Rock1:Arbusto1_Rock1:Arbusto
+    100008: Rock1:Arbusto_Rock1:Arbusto
+    100010: Rock1:Copa1_Rock1:TREE3_Rock1:TREES
+    100012: Rock1:Crystal2_Rock1:Crystals
+    100014: Rock1:Crystals_Rock1:Crystal
+    100016: Rock1:Crystals_Rock1:Crystal1
+    100018: Rock1:ICE_Rock1:ICE
+    100020: Rock1:Pilar_Pilar
+    100022: Rock1:Pilar_Pilar1
+    100024: Rock1:Pilar_Rock1:Pilar
+    100026: Rock1:Rock_3_Rock1:ROCKS
+    100028: Rock1:ROCKS_Rock1:Roca_1
+    100030: Rock1:ROCKS_Rock1:Roca_2
+    100032: Rock1:ROCKS_Rock1:Rock_2
+    100034: Rock1:ROCKS_Rock_3
+    100036: Rock1:TREE3_Rock1:TREES_Rock1:Tronco1
+    100038: Rock1:TREES_Rock1:Copa1_Rock1:TREE2
+    100040: Rock1:TREES_Rock1:Cylinder001_Rock1:TREE1
+    100042: Rock1:TREES_Rock1:TREE1_Rock1:Hedra001
+    100044: Rock1:TREES_Rock1:TREE1_Rock1:Hedra003
+    100046: Rock1:TREES_Rock1:TREE2_Rock1:Tronco1
+    400000: pCube2
+    400002: pCube3
+    400004: //RootNode
+    400006: Rock1:Arbusto1_Rock1:Arbusto
+    400008: Rock1:Arbusto_Rock1:Arbusto
+    400010: Rock1:Copa1_Rock1:TREE3_Rock1:TREES
+    400012: Rock1:Crystal2_Rock1:Crystals
+    400014: Rock1:Crystals_Rock1:Crystal
+    400016: Rock1:Crystals_Rock1:Crystal1
+    400018: Rock1:ICE_Rock1:ICE
+    400020: Rock1:Pilar_Pilar
+    400022: Rock1:Pilar_Pilar1
+    400024: Rock1:Pilar_Rock1:Pilar
+    400026: Rock1:Rock_3_Rock1:ROCKS
+    400028: Rock1:ROCKS_Rock1:Roca_1
+    400030: Rock1:ROCKS_Rock1:Roca_2
+    400032: Rock1:ROCKS_Rock1:Rock_2
+    400034: Rock1:ROCKS_Rock_3
+    400036: Rock1:TREE3_Rock1:TREES_Rock1:Tronco1
+    400038: Rock1:TREES_Rock1:Copa1_Rock1:TREE2
+    400040: Rock1:TREES_Rock1:Cylinder001_Rock1:TREE1
+    400042: Rock1:TREES_Rock1:TREE1_Rock1:Hedra001
+    400044: Rock1:TREES_Rock1:TREE1_Rock1:Hedra003
+    400046: Rock1:TREES_Rock1:TREE2_Rock1:Tronco1
+    2100000: pCube2Mat
+    2100002: pCube3Mat
+    2100004: Rock1_Arbusto1_Rock1_ArbustoMat
+    2100006: Rock1_Arbusto_Rock1_ArbustoMat
+    2100008: Rock1_Copa1_Rock1_TREE3_Rock1_TREESMat
+    2100010: Rock1_Crystal2_Rock1_CrystalsMat
+    2100012: Rock1_Crystals_Rock1_CrystalMat
+    2100014: Rock1_Crystals_Rock1_Crystal1Mat
+    2100016: Rock1_ICE_Rock1_ICEMat
+    2100018: Rock1_Pilar_PilarMat
+    2100020: Rock1_Pilar_Pilar1Mat
+    2100022: Rock1_Pilar_Rock1_PilarMat
+    2100024: Rock1_Rock_3_Rock1_ROCKSMat
+    2100026: Rock1_ROCKS_Rock1_Roca_1Mat
+    2100028: Rock1_ROCKS_Rock1_Roca_2Mat
+    2100030: Rock1_ROCKS_Rock1_Rock_2Mat
+    2100032: Rock1_ROCKS_Rock_3Mat
+    2100034: Rock1_TREE3_Rock1_TREES_Rock1_Tronco1Mat
+    2100036: Rock1_TREES_Rock1_Copa1_Rock1_TREE2Mat
+    2100038: Rock1_TREES_Rock1_Cylinder001_Rock1_TREE1Mat
+    2100040: Rock1_TREES_Rock1_TREE1_Rock1_Hedra001Mat
+    2100042: Rock1_TREES_Rock1_TREE1_Rock1_Hedra003Mat
+    2100044: Rock1_TREES_Rock1_TREE2_Rock1_Tronco1Mat
+    2300000: pCube2
+    2300002: pCube3
+    2300004: Rock1:Arbusto1_Rock1:Arbusto
+    2300006: Rock1:Arbusto_Rock1:Arbusto
+    2300008: Rock1:Copa1_Rock1:TREE3_Rock1:TREES
+    2300010: Rock1:Crystal2_Rock1:Crystals
+    2300012: Rock1:Crystals_Rock1:Crystal
+    2300014: Rock1:Crystals_Rock1:Crystal1
+    2300016: Rock1:ICE_Rock1:ICE
+    2300018: Rock1:Pilar_Pilar
+    2300020: Rock1:Pilar_Pilar1
+    2300022: Rock1:Pilar_Rock1:Pilar
+    2300024: Rock1:Rock_3_Rock1:ROCKS
+    2300026: Rock1:ROCKS_Rock1:Roca_1
+    2300028: Rock1:ROCKS_Rock1:Roca_2
+    2300030: Rock1:ROCKS_Rock1:Rock_2
+    2300032: Rock1:ROCKS_Rock_3
+    2300034: Rock1:TREE3_Rock1:TREES_Rock1:Tronco1
+    2300036: Rock1:TREES_Rock1:Copa1_Rock1:TREE2
+    2300038: Rock1:TREES_Rock1:Cylinder001_Rock1:TREE1
+    2300040: Rock1:TREES_Rock1:TREE1_Rock1:Hedra001
+    2300042: Rock1:TREES_Rock1:TREE1_Rock1:Hedra003
+    2300044: Rock1:TREES_Rock1:TREE2_Rock1:Tronco1
+    3300000: pCube2
+    3300002: pCube3
+    3300004: Rock1:Arbusto1_Rock1:Arbusto
+    3300006: Rock1:Arbusto_Rock1:Arbusto
+    3300008: Rock1:Copa1_Rock1:TREE3_Rock1:TREES
+    3300010: Rock1:Crystal2_Rock1:Crystals
+    3300012: Rock1:Crystals_Rock1:Crystal
+    3300014: Rock1:Crystals_Rock1:Crystal1
+    3300016: Rock1:ICE_Rock1:ICE
+    3300018: Rock1:Pilar_Pilar
+    3300020: Rock1:Pilar_Pilar1
+    3300022: Rock1:Pilar_Rock1:Pilar
+    3300024: Rock1:Rock_3_Rock1:ROCKS
+    3300026: Rock1:ROCKS_Rock1:Roca_1
+    3300028: Rock1:ROCKS_Rock1:Roca_2
+    3300030: Rock1:ROCKS_Rock1:Rock_2
+    3300032: Rock1:ROCKS_Rock_3
+    3300034: Rock1:TREE3_Rock1:TREES_Rock1:Tronco1
+    3300036: Rock1:TREES_Rock1:Copa1_Rock1:TREE2
+    3300038: Rock1:TREES_Rock1:Cylinder001_Rock1:TREE1
+    3300040: Rock1:TREES_Rock1:TREE1_Rock1:Hedra001
+    3300042: Rock1:TREES_Rock1:TREE1_Rock1:Hedra003
+    3300044: Rock1:TREES_Rock1:TREE2_Rock1:Tronco1
+    4300000: pCube2
+    4300002: pCube3
+    4300004: Rock1:Arbusto1_Rock1:Arbusto
+    4300006: Rock1:Arbusto_Rock1:Arbusto
+    4300008: Rock1:Copa1_Rock1:TREE3_Rock1:TREES
+    4300010: Rock1:Crystal2_Rock1:Crystals
+    4300012: Rock1:Crystals_Rock1:Crystal
+    4300014: Rock1:Crystals_Rock1:Crystal1
+    4300016: Rock1:ICE_Rock1:ICE
+    4300018: Rock1:Pilar_Pilar
+    4300020: Rock1:Pilar_Pilar1
+    4300022: Rock1:Pilar_Rock1:Pilar
+    4300024: Rock1:Rock_3_Rock1:ROCKS
+    4300026: Rock1:ROCKS_Rock1:Roca_1
+    4300028: Rock1:ROCKS_Rock1:Roca_2
+    4300030: Rock1:ROCKS_Rock1:Rock_2
+    4300032: Rock1:ROCKS_Rock_3
+    4300034: Rock1:TREE3_Rock1:TREES_Rock1:Tronco1
+    4300036: Rock1:TREES_Rock1:Copa1_Rock1:TREE2
+    4300038: Rock1:TREES_Rock1:Cylinder001_Rock1:TREE1
+    4300040: Rock1:TREES_Rock1:TREE1_Rock1:Hedra001
+    4300042: Rock1:TREES_Rock1:TREE1_Rock1:Hedra003
+    4300044: Rock1:TREES_Rock1:TREE2_Rock1:Tronco1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

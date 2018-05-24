@@ -1,0 +1,10 @@
+newmtl PropsSeparados_lambert14SG
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd pilar_int_PropsSeparados_lambert14SG_color.tga
+map_bump pilar_int_PropsSeparados_lambert14SG_nmap.tga

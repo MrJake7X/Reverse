@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.04.2018 17:50:38
+
+newmtl Props_gamev2_lambert12SG
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Alex\mis cosas\CEV\Ludum Dare\Props\Props_gamev2\Props_gamev2_lambert12SG_color.tga
+	map_Kd E:\Alex\mis cosas\CEV\Ludum Dare\Props\Props_gamev2\Props_gamev2_lambert12SG_color.tga
+	map_bump E:\Alex\mis cosas\CEV\Ludum Dare\Props\Props_gamev2\Props_gamev2_lambert12SG_nmap.tga
+	bump E:\Alex\mis cosas\CEV\Ludum Dare\Props\Props_gamev2\Props_gamev2_lambert12SG_nmap.tga

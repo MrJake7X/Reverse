@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 2bb83ecaf8a3cfc40a71c528b2c0b627
+timeCreated: 1524501581
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pCube2
+    100002: pCube3
+    100004: //RootNode
+    100006: Rock1:Arbusto
+    100008: Rock1:Arbusto1
+    100010: Rock1:Copa1
+    100012: Rock1:Crystal2
+    100014: Rock1:Crystals
+    100016: Rock1:ICE
+    100018: Rock1:Pilar
+    100020: Rock1:Rock_3
+    100022: Rock1:ROCKS
+    100024: Rock1:TREE3
+    100026: Rock1:TREES
+    400000: pCube2
+    400002: pCube3
+    400004: //RootNode
+    400006: Rock1:Arbusto
+    400008: Rock1:Arbusto1
+    400010: Rock1:Copa1
+    400012: Rock1:Crystal2
+    400014: Rock1:Crystals
+    400016: Rock1:ICE
+    400018: Rock1:Pilar
+    400020: Rock1:Rock_3
+    400022: Rock1:ROCKS
+    400024: Rock1:TREE3
+    400026: Rock1:TREES
+    2100000: lambert17SG
+    2100002: lambert18SG
+    2100004: lambert12SG
+    2100006: lambert13SG
+    2100008: lambert7SG
+    2100010: lambert19SG
+    2100012: lambert11SG
+    2100014: lambert14SG
+    2100016: lambert15SG
+    2100018: lambert16SG
+    2100020: lambert5SG
+    2100022: lambert4SG
+    2100024: lambert3SG
+    2100026: lambert2SG
+    2100028: lambert20SG
+    2100030: lambert6SG
+    2100032: lambert10SG
+    2100034: lambert9SG
+    2100036: lambert8SG
+    2100038: blinn1SG
+    2300000: pCube2
+    2300002: pCube3
+    2300004: Rock1:Arbusto
+    2300006: Rock1:Arbusto1
+    2300008: Rock1:Copa1
+    2300010: Rock1:Crystal2
+    2300012: Rock1:Crystals
+    2300014: Rock1:ICE
+    2300016: Rock1:Pilar
+    2300018: Rock1:Rock_3
+    2300020: Rock1:ROCKS
+    2300022: Rock1:TREE3
+    2300024: Rock1:TREES
+    3300000: pCube2
+    3300002: pCube3
+    3300004: Rock1:Arbusto
+    3300006: Rock1:Arbusto1
+    3300008: Rock1:Copa1
+    3300010: Rock1:Crystal2
+    3300012: Rock1:Crystals
+    3300014: Rock1:ICE
+    3300016: Rock1:Pilar
+    3300018: Rock1:Rock_3
+    3300020: Rock1:ROCKS
+    3300022: Rock1:TREE3
+    3300024: Rock1:TREES
+    4300000: pCube2
+    4300002: pCube3
+    4300004: Rock1:Arbusto
+    4300006: Rock1:Arbusto1
+    4300008: Rock1:Copa1
+    4300010: Rock1:Crystal2
+    4300012: Rock1:Crystals
+    4300014: Rock1:ICE
+    4300016: Rock1:Pilar
+    4300018: Rock1:Rock_3
+    4300020: Rock1:ROCKS
+    4300022: Rock1:TREE3
+    4300024: Rock1:TREES
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
