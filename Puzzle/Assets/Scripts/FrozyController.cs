@@ -43,6 +43,10 @@ public class FrozyController : MonoBehaviour {
 
         float yStore = moveDirection.y;
 
+        moveDirection.z = input.x * moveSpeed;
+        moveDirection.x = -input.y * moveSpeed;
+
+        /*
         if (manager.extraCam.frozyIn)
         {
             moveDirection.z = transform.right.x * -input.x * moveSpeed;
@@ -50,10 +54,12 @@ public class FrozyController : MonoBehaviour {
         }
         else
         {
-            moveDirection.x = transform.right.x * input.x * moveSpeed;
-            moveDirection.z = transform.forward.z * input.y * moveSpeed;
+            //moveDirection.x = transform.right.x * input.x * moveSpeed;
+            //moveDirection.z = transform.forward.z * input.y * moveSpeed;
+            moveDirection.z = transform.right.x * -input.x * moveSpeed;
+            moveDirection.x = transform.forward.z * input.y * moveSpeed;
         }
-
+        */
         if (invertZ)
         {
             moveDirection.z = -moveDirection.z;
@@ -116,7 +122,7 @@ public class FrozyController : MonoBehaviour {
 
     private void Rotate()
     {
-        targetRotation = Quaternion.Euler(0, angle, 0);
+        targetRotation = Quaternion.Euler(0, -angle, 0);
         model.rotation = Quaternion.Slerp(model.rotation, targetRotation, turnSpeed * Time.deltaTime);
     }
 }

@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 3fc9eae655e0cd844a8fd8ab0114cf13
-timeCreated: 1524359411
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: pCube2
     100002: pCube3
@@ -53,6 +51,19 @@ ModelImporter:
     2100034: lambert9SG
     2100036: lambert8SG
     2100038: blinn1SG
+    2100040: pCube2Mat
+    2100042: pCube3Mat
+    2100044: Rock1_ArbustoMat
+    2100046: Rock1_Arbusto1Mat
+    2100048: Rock1_Copa1Mat
+    2100050: Rock1_Crystal2Mat
+    2100052: Rock1_CrystalsMat
+    2100054: Rock1_ICEMat
+    2100056: Rock1_PilarMat
+    2100058: Rock1_Rock_3Mat
+    2100060: Rock1_ROCKSMat
+    2100062: Rock1_TREE3Mat
+    2100064: Rock1_TREESMat
     2300000: pCube2
     2300002: pCube3
     2300004: Rock1:Arbusto
@@ -111,6 +122,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -142,6 +154,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -161,7 +175,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
